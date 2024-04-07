@@ -4,7 +4,6 @@
 PDF viewer with side note. It enable open spefic PDF file and add some note about pdf file.
 
 ## How to use
-Some basic Git commands are:
 ```
 cd math-test 
 npm install 
