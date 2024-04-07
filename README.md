@@ -6,9 +6,10 @@ PDF viewer with side note. It enable open spefic PDF file and add some note abou
 ## How to use
 Some basic Git commands are:
 ```
-git clone 
-git add
-git commit
+cd math-test 
+npm install 
+npm install react-iframe
+npm run dev
 ```
 
 
